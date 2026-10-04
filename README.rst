@@ -16,6 +16,7 @@ pagination, and meant to be easy to hack on.
 * For Python 3.10+, tested on CPython and PyPy
 * Documentation: https://doc.courtbouillon.org/weasyprint
 * Examples: https://weasyprint.org/#samples
+* Tips and tricks: https://www.naveenmk.me/blog/weasyprint/
 * Changelog: https://github.com/Kozea/WeasyPrint/releases
 * Code, issues, tests: https://github.com/Kozea/WeasyPrint
 * Code of conduct: https://www.courtbouillon.org/code-of-conduct
